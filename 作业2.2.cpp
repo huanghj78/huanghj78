@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-	int count = 0;
+	int count = 0;//test
 	int i = 0;
 	int a = 0;
 	int b = 0;
